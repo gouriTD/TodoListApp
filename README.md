@@ -7,4 +7,4 @@
     * Edit the todo item.
     * Save or delete the todo item as per requirement.
     * Using localstorage to carry out data persistence.
-    [Demo](https://gouritd.github.io/TodoListApp/)
+* [Project Demo](https://gouritd.github.io/TodoListApp/)
